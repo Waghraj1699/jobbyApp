@@ -35,7 +35,7 @@ A dynamic job search platform built using **React.js** that allows users to expl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/jobby-app.git
+   git clone https://github.com/waghraj1699/jobby-app.git
 
 2. Navigate to the project directory:
 
