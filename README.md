@@ -4,6 +4,10 @@ A dynamic job search platform built using **React.js** that allows users to expl
 
 ---
 
+- username: rahul
+- password: rahul@2021
+
+---
 ## 🛠 Features
 
 - **User Authentication**: Secure login and logout functionality.
